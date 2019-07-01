@@ -1,4 +1,6 @@
 
+[![Build Status](https://itaskov.visualstudio.com/Dynamics/_apis/build/status/itaskov.pipelines-java?branchName=master)](https://itaskov.visualstudio.com/Dynamics/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
